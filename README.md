@@ -9,6 +9,13 @@ Este projeto implementa um pipeline de dados automatizado e robusto utilizando a
 ![Arquitetura do Projeto](imagens/arquitetura.png)
 Diagrama do fluxo de engenharia de dados do projeto.
 
+---
+
+## Visualização relatório Power BI
+
+![Dashboard](imagens/relatorio.png)
+Relatório de análise de vendas.
+
 O projeto foi construído seguindo um fluxo modular dividido em quatro etapas principais:
 
 1. *Fonte de Dados:* Consumo de dados públicos de vendas de supermercados hospedados no Kaggle.
@@ -72,12 +79,6 @@ O projeto foi construído seguindo um fluxo modular dividido em quatro etapas pr
    * Utilize o conector nativo do Azure Databricks no Power BI para buscar as tabelas da camada Gold.
 
 ---
-
-## Próximos Passos (Visualização no Power BI)
-* Criação de um dashboard interativo focado em receita de vendas por filial.
-* Análise de margem de lucro e comportamento de compra dos clientes.
-* Publicação do relatório final para consumo.
-
 
 ## Autor
 *Hevellyn Freitas*
