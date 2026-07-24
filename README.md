@@ -12,13 +12,6 @@ Relatório de análise de vendas.
 
 ---
 
-## Link do Relatório
-
-https://app.powerbi.com/groups/me/reports/ce7ba65d-e352-48f8-a3e6-6877e6ed6b9f/2dafabae28b72e2ab404?experience=power-bi
-
-
----
-
 ## imagem da Arquitetura do Projeto
 
 ![Arquitetura do Projeto](imagens/arquitetura.png)
