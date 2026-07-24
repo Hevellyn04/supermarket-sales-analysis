@@ -2,19 +2,29 @@
 
 Este projeto implementa um pipeline de dados automatizado e robusto utilizando a *plataforma Databricks (Lakehouse)* para extrair, processar, limpar e modelar dados de vendas de supermercados provenientes da API do Kaggle, preparando-os para o consumo de Business Intelligence no *Power BI*.
 
+
 ---
 
-## Arquitetura do Projeto
+## Imagem do Relatório Power BI
+
+![Dashboard](imagens/relatorio.png)
+Relatório de análise de vendas.
+
+---
+
+## Link do Relatório
+
+https://app.powerbi.com/groups/me/reports/ce7ba65d-e352-48f8-a3e6-6877e6ed6b9f/2dafabae28b72e2ab404?experience=power-bi
+
+
+---
+
+## imagem da Arquitetura do Projeto
 
 ![Arquitetura do Projeto](imagens/arquitetura.png)
 Diagrama do fluxo de engenharia de dados do projeto.
 
 ---
-
-## Visualização relatório Power BI
-
-![Dashboard](imagens/relatorio.png)
-Relatório de análise de vendas.
 
 O projeto foi construído seguindo um fluxo modular dividido em quatro etapas principais:
 
